@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(32, 32, 32);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.beta{
+    background-color: rgb(83, 82, 82);
+    width: 900px;
+    height: 800px;
+}
